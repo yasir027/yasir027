@@ -20,15 +20,33 @@ I’m also building **Tech Job Insider (TJI)**—a social media concept for deve
 ---
 
 ## 💻 My Current Stack
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-**Frontend**: React, Next.js, Tailwind CSS  
-**Backend**: Node.js, Express, Firebase, REST APIs  
-**Database**: MySQL, Firestore, MongoDB  
-**DevOps**: Docker, GitHub Actions, Netlify, Railway  
-**AI/ML Tools**: Python, TensorFlow, OpenAI API, n8n  
-**APIs I've worked with**: Razorpay, Firebase Auth, OpenAI, Google Maps, WhatsApp, custom microservices  
+![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![REST APIs](https://img.shields.io/badge/API-REST-blue)
 
----
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-ffcb2b?logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FE7043?logo=n8n&logoColor=white)
+
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?logo=razorpay&logoColor=white)
+![Google Maps API](https://img.shields.io/badge/Google%20Maps-4285F4?logo=google-maps&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)
+
 
 ## 🛠️ Notable Projects
 
