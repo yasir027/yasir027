@@ -9,30 +9,62 @@ I'm a passionate developer with 3+ years of experience building scalable full-st
 
 💡 I’ve built projects across **legal**, **healthcare**, **ed-tech**, **e-commerce**, and **developer tooling**, and I love working at the intersection of functionality and innovation.
 
+# 👋 Hey, I'm Yasir Hussain
+
+🚀 Full Stack Developer • AI Tinkerer • Problem Solver  
+🧠 On a mission to build real-world tools powered by great UX & smart automation.
+
 ---
 
-## ⚒️ Tech Stack
-**Frontend**: React, Next.js, HTML5, CSS3, Tailwind  
+## 🌍 About Me
+
+I'm Yasir — a full stack developer with over **3 years of experience** delivering scalable, user-centric web applications. From building legal-tech platforms to AI-integrated education tools and real-time object detection systems, I enjoy solving meaningful problems with clean code and sharp design.
+
+I’ve worked across industries like **healthcare**, **legal**, **ed-tech**, and **developer tools**, and I’m passionate about crafting software that not only works—but **works smart**.
+
+I’m also building **Tech Job Insider (TJI)**—a social media concept for developers to share code outputs as posts. Think Stack Overflow meets Instagram.
+
+---
+
+## 💻 My Current Stack
+
+**Frontend**: React, Next.js, Tailwind CSS  
 **Backend**: Node.js, Express, Firebase, REST APIs  
 **Database**: MySQL, Firestore, MongoDB  
-**DevOps & Tools**: Docker, GitHub Actions, Netlify, Railway  
-**AI & Automation**: Python, OpenAI API, TensorFlow, n8n
+**DevOps**: Docker, GitHub Actions, Netlify, Railway  
+**AI/ML Tools**: Python, TensorFlow, OpenAI API, n8n  
+**APIs I've worked with**: Razorpay, Firebase Auth, OpenAI, Google Maps, WhatsApp, custom microservices  
 
 ---
 
-## 🌱 What I'm Learning Now
-- Building advanced **AI agents** with orchestration tools  
-- Hands-on with **DevOps pipelines** and **cloud infra (AWS/Azure)**  
-- Exploring **GIS development** and map-based automation  
+## 🛠️ Notable Projects
+
+- **[ALD Online](https://aldonline.in)**: Legal research platform described as the “Netflix for Lawyers.”  
+- **SLATE**: AI-powered tutoring tool using OpenAI + real-time visual feedback.  
+- **Busway**: A computer vision-based tool for detecting public transport activity.  
+- **CapitolGastro**: SEO-optimized medical website with real-time chat features.  
+- **Shellinsys**: CTA-driven IT solutions company site.  
+- **TJI** *(in progress)*: Dev-focused social media to post & share code outputs.
 
 ---
 
-## 📫 Let’s Connect!
-📧 yasirhussain0027@gmail.com  
-🌐 [Portfolio (coming soon)]()  
-🔗 [LinkedIn](https://www.linkedin.com/in/yasirhussain027/)  
-🧠 [Project Showcase](https://github.com/yasirhussain027?tab=repositories)
+## ✍️ Class Yasir < Person
 
----
+```ruby
+class Yasir < Developer
+  def initialize
+    @name = "Yasir Hussain"
+    @from = "India"
+    @role = "Full Stack Developer / AI Explorer"
+    @industries = ["Legal-Tech", "Healthcare", "Ed-Tech", "IT Consulting"]
+    @tools = ["React", "Node.js", "Firebase", "Docker", "TensorFlow"]
+  end
 
-*“Build for users. Automate where possible. Learn without limits.”*
+  def passions
+    ["Automation", "Building useful things", "Making dev tools smarter"]
+  end
+
+  def hobbies
+    ["Exploring AI workflows", "UI experiments", "Documenting builds"]
+  end
+end
