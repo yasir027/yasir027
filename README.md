@@ -7,6 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasirhussain027/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:yasirhussain0027@gmail.com)
+</div>
 
 ---
 
@@ -77,4 +78,3 @@ class Yasir < Developer
   end
 end
 ```
-</div>
