@@ -1,11 +1,12 @@
+<div align="center">
+
 # 👋 Hey, I'm Yasir Hussain
 
 🚀 Full Stack Developer • AI Tinkerer • Problem Solver  
 🧠 On a mission to build real-world tools powered by great UX & smart automation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasirhussain027/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasirhussain027/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:yasirhussain0027@gmail.com)
-
 
 ---
 
@@ -20,33 +21,21 @@ I’m also building **Tech Job Insider (TJI)**—a social media concept for deve
 ---
 
 ## 💻 My Current Stack
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![REST APIs](https://img.shields.io/badge/API-REST-blue)
+| Frontend              | Backend / APIs             | Databases                 |
+|-----------------------|---------------------------|---------------------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) | ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) | ![Firestore](https://img.shields.io/badge/Firestore-ffcb2b?logo=firebase&logoColor=black) |
+| ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
 
-![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-ffcb2b?logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+| DevOps / CI-CD        | AI / Automation            | APIs                      |
+|-----------------------|---------------------------|---------------------------|
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?logo=razorpay&logoColor=white) |
+| ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![Google Maps API](https://img.shields.io/badge/Google%20Maps-4285F4?logo=google-maps&logoColor=white) |
+| ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) | ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white) |
+| ![Railway](https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-FE7043?logo=n8n&logoColor=white) |                           |
 
-![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FE7043?logo=n8n&logoColor=white)
-
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?logo=razorpay&logoColor=white)
-![Google Maps API](https://img.shields.io/badge/Google%20Maps-4285F4?logo=google-maps&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)
-
+---
 
 ## 🛠️ Notable Projects
 
@@ -59,7 +48,7 @@ I’m also building **Tech Job Insider (TJI)**—a social media concept for deve
 
 ---
 
-## ✍️ Class Yasir < Person
+## ✍️ Summary (Ruby Style)
 
 ```ruby
 class Yasir < Developer
@@ -87,4 +76,5 @@ class Yasir < Developer
     ["English", "Hindi", "Urdu"]
   end
 end
-
+```
+</div>
