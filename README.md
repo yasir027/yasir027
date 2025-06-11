@@ -3,12 +3,6 @@
 🚀 Full Stack Developer | AI Integrator | Problem Solver
 
 I'm a passionate developer with 3+ years of experience building scalable full-stack applications, crafting seamless user experiences, and integrating AI to automate and enhance real-world workflows. I specialize in modern web technologies like **React**, **Node.js**, **MySQL**, and **Firebase**, and deploy solutions using **Docker**, **Netlify**, and **CI/CD pipelines**.
-![Profile Views](https://komarev.com/ghpvc/?username=yasirhussain027&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/yasirhussain027?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/yasirhussain027?style=social)
-![Top Language](https://img.shields.io/github/languages/top/yasirhussain027/ALD-Online?style=flat&color=blue)
-![Last Commit](https://img.shields.io/github/last-commit/yasirhussain027/ALD-Online?style=flat)
-![Repo Size](https://img.shields.io/github/repo-size/yasirhussain027/ALD-Online)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasirhussain027/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:yasirhussain0027@gmail.com)
