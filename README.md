@@ -7,8 +7,6 @@ I'm a passionate developer with 3+ years of experience building scalable full-st
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasirhussain027/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:yasirhussain0027@gmail.com)
 
-🧠 I enjoy bridging tech and usability—whether it's creating legal-tech platforms like **ALD Online**, AI-powered education tools like **SLATE**, or location-aware systems like **Busway**. I'm also exploring AI agents using **n8n**, **OpenAI APIs**, and cloud workflows.
-
 💡 I’ve built projects across **legal**, **healthcare**, **ed-tech**, **e-commerce**, and **developer tooling**, and I love working at the intersection of functionality and innovation.
 
 ---
