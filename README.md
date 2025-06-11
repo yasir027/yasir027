@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I'm Yasir Hussain
 
-<!--
-**yasir027/yasir027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | AI Integrator | Problem Solver
 
-Here are some ideas to get you started:
+I'm a passionate developer with 3+ years of experience building scalable full-stack applications, crafting seamless user experiences, and integrating AI to automate and enhance real-world workflows. I specialize in modern web technologies like **React**, **Node.js**, **MySQL**, and **Firebase**, and deploy solutions using **Docker**, **Netlify**, and **CI/CD pipelines**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I enjoy bridging tech and usability—whether it's creating legal-tech platforms like **ALD Online**, AI-powered education tools like **SLATE**, or location-aware systems like **Busway**. I'm also exploring AI agents using **n8n**, **OpenAI APIs**, and cloud workflows.
+
+💡 I’ve built projects across **legal**, **healthcare**, **ed-tech**, **e-commerce**, and **developer tooling**, and I love working at the intersection of functionality and innovation.
+
+---
+
+## ⚒️ Tech Stack
+**Frontend**: React, Next.js, HTML5, CSS3, Tailwind  
+**Backend**: Node.js, Express, Firebase, REST APIs  
+**Database**: MySQL, Firestore, MongoDB  
+**DevOps & Tools**: Docker, GitHub Actions, Netlify, Railway  
+**AI & Automation**: Python, OpenAI API, TensorFlow, n8n
+
+---
+
+## 🌱 What I'm Learning Now
+- Building advanced **AI agents** with orchestration tools  
+- Hands-on with **DevOps pipelines** and **cloud infra (AWS/Azure)**  
+- Exploring **GIS development** and map-based automation  
+
+---
+
+## 📫 Let’s Connect!
+📧 yasirhussain0027@gmail.com  
+🌐 [Portfolio (coming soon)]()  
+🔗 [LinkedIn](https://www.linkedin.com/in/yasirhussain027/)  
+🧠 [Project Showcase](https://github.com/yasirhussain027?tab=repositories)
+
+---
+
+*“Build for users. Automate where possible. Learn without limits.”*
