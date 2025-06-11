@@ -32,7 +32,7 @@ I’m also building **Tech Job Insider (TJI)**—a social media concept for deve
 
 ## 🛠️ Notable Projects
 
-- **[ALD Online](https://aldonline.in)**: Legal research platform described as the “Netflix for Lawyers.”  
+- **[ALD Online](http://aldonline.in)**: Legal research platform described as the “Netflix for Lawyers.”  
 - **SLATE**: AI-powered tutoring tool using OpenAI + real-time visual feedback.  
 - **Busway**: A computer vision-based tool for detecting public transport activity.  
 - **CapitolGastro**: SEO-optimized medical website with real-time chat features.  
@@ -49,15 +49,24 @@ class Yasir < Developer
     @name = "Yasir Hussain"
     @from = "India"
     @role = "Full Stack Developer / AI Explorer"
-    @industries = ["Legal-Tech", "Healthcare", "Ed-Tech", "IT Consulting"]
-    @tools = ["React", "Node.js", "Firebase", "Docker", "TensorFlow"]
+    @industries = ["Legal-Tech", "Healthcare", "Ed-Tech", "IT Consulting", "Developer Tools", "E-commerce"]
+    @tools = [
+      "React", "Next.js", "Tailwind CSS", "Node.js", "Express", "Firebase", "MySQL", "MongoDB", "PostgreSQL",
+      "Docker", "Netlify", "Railway", "GitHub Actions", "CI/CD Pipelines", "OpenAI API", "TensorFlow",
+      "n8n", "LangChain", "Python", "Google Maps API", "Razorpay API"
+    ]
   end
 
   def passions
-    ["Automation", "Building useful things", "Making dev tools smarter"]
+    ["Automation", "AI-powered workflows", "Designing practical dev tools", "Building scalable systems"]
   end
 
   def hobbies
-    ["Exploring AI workflows", "UI experiments", "Documenting builds"]
+    ["Exploring AI workflows", "UI/UX experiments", "Writing clean docs", "Basketball", "Fitness", "Photography"]
+  end
+
+  def languages
+    ["English", "Hindi", "Urdu"]
   end
 end
+
